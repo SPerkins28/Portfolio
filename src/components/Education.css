@@ -1,0 +1,15 @@
+#Education {
+  color: #282C34;
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+hr {
+    height: 1px;
+    background-color: rgb(108, 125, 140) !important;
+    border: none;
+}

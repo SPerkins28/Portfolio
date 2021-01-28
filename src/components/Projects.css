@@ -1,0 +1,33 @@
+#projects {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+#projectsHeading {
+  color: #282c34;
+}
+
+#projectCards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
+
+#levelUp,
+#pokemon,
+#static,
+#creature {
+  color: white;
+  display: flex;
+  flex-direction: column;
+}
+
+#levelUpDescription,
+#pokéDescription,
+#staticDescription,
+#creatureDescription {
+  color: white;
+}

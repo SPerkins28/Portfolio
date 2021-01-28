@@ -1,0 +1,25 @@
+#skills {
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+#skillsIcons {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+
+#skillsHeading1,
+#skillsHeading2 {
+  color: #282c34;
+}
+
+.skillsSVG {
+  width: 75px;
+  height: 75px;
+  margin: 0.75em;
+}

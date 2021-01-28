@@ -1,0 +1,32 @@
+.MuiPaper-root {
+  background-color: rgb(60, 79, 99) !important;
+}
+
+.MuiButtonBase-root {
+  display: flex !important;
+  justify-content: center !important;
+  background-color: transparent !important;
+}
+
+.MuiListItem-root {
+  text-align: center !important;
+  color: white !important;
+}
+
+.links {
+  color: white;
+  text-shadow: 0 12px 6px 6px #282c34;
+  text-decoration: none;
+}
+
+#family {
+  width: 150px;
+  height: 150px;
+  border-radius: 0.1em;
+  box-shadow: 0 12px 6px -6px #282c34;
+}
+
+#Logo {
+  width: 210px;
+  filter: drop-shadow(2px 4px 8px black);
+}

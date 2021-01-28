@@ -1,0 +1,57 @@
+#AboutMe {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+#aboutMeContent {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
+#contactLinks {
+  display: flex;
+  justify-content: center;
+}
+
+#GitHubLink {
+  color: #282c34;
+  width: 1.5em;
+  height: 1.5em;
+}
+
+#GitHubLink:hover {
+  filter: drop-shadow(0px 0px 8px black);
+}
+
+#LinkedInLink {
+  color: #282c34;
+  width: 1.5em;
+  height: 1.5em;
+}
+
+#LinkedInLink:hover {
+  filter: drop-shadow(0px 0px 8px #0a66c2);
+}
+
+#EmailLink {
+  color: #282c34;
+  width: 1.5em;
+  height: 1.5em;
+}
+
+#EmailLink:hover {
+  filter: drop-shadow(0px 0px 8px red);
+}
+
+#aboutMeTextContainer {
+  margin-left: 10em;
+}
+
+.aboutMeText {
+  white-space: normal;
+  font-size: 1em;
+}
