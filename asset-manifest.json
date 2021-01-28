@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.0b3897b1.chunk.css",
+    "main.js": "/Portfolio/static/js/main.e4f10017.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.e4f10017.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.03e2a360.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.03e2a360.js.map",
+    "static/js/2.e95321fd.chunk.js": "/Portfolio/static/js/2.e95321fd.chunk.js",
+    "static/js/2.e95321fd.chunk.js.map": "/Portfolio/static/js/2.e95321fd.chunk.js.map",
+    "static/js/3.07ab4aaf.chunk.js": "/Portfolio/static/js/3.07ab4aaf.chunk.js",
+    "static/js/3.07ab4aaf.chunk.js.map": "/Portfolio/static/js/3.07ab4aaf.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "static/css/main.0b3897b1.chunk.css.map": "/Portfolio/static/css/main.0b3897b1.chunk.css.map",
+    "static/js/2.e95321fd.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.e95321fd.chunk.js.LICENSE.txt",
+    "static/media/bootstrap-plain.333f5e43.svg": "/Portfolio/static/media/bootstrap-plain.333f5e43.svg",
+    "static/media/css3-plain.a970faff.svg": "/Portfolio/static/media/css3-plain.a970faff.svg",
+    "static/media/cssCreature.28f0de67.png": "/Portfolio/static/media/cssCreature.28f0de67.png",
+    "static/media/express-original.415f9b1f.svg": "/Portfolio/static/media/express-original.415f9b1f.svg",
+    "static/media/family-sm.f2dd2d9e.png": "/Portfolio/static/media/family-sm.f2dd2d9e.png",
+    "static/media/github-original.fad4b944.svg": "/Portfolio/static/media/github-original.fad4b944.svg",
+    "static/media/html5-plain.bf6bb1c2.svg": "/Portfolio/static/media/html5-plain.bf6bb1c2.svg",
+    "static/media/javascript-plain.a83bda35.svg": "/Portfolio/static/media/javascript-plain.a83bda35.svg",
+    "static/media/levelUp.3afb9f50.gif": "/Portfolio/static/media/levelUp.3afb9f50.gif",
+    "static/media/material-ui-1.fd510ed8.svg": "/Portfolio/static/media/material-ui-1.fd510ed8.svg",
+    "static/media/nodejs-plain.ca7d5097.svg": "/Portfolio/static/media/nodejs-plain.ca7d5097.svg",
+    "static/media/poke-api.37ce2f97.gif": "/Portfolio/static/media/poke-api.37ce2f97.gif",
+    "static/media/postgresql-plain.5643cbe0.svg": "/Portfolio/static/media/postgresql-plain.5643cbe0.svg",
+    "static/media/react-original.7098e271.svg": "/Portfolio/static/media/react-original.7098e271.svg",
+    "static/media/sequelize-plain.61437a90.svg": "/Portfolio/static/media/sequelize-plain.61437a90.svg",
+    "static/media/staticLayout.e8f67a1a.png": "/Portfolio/static/media/staticLayout.e8f67a1a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.03e2a360.js",
+    "static/js/2.e95321fd.chunk.js",
+    "static/css/main.0b3897b1.chunk.css",
+    "static/js/main.e4f10017.chunk.js"
+  ]
+}
