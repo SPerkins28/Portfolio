@@ -60,7 +60,7 @@ const About = () => {
             the course. I am <strong>ADDICTED</strong> to coding! I love the
             fact that there is an infinite amount of knowledge for me to
             consume. I love that the only limits to knowledge are self imposed.
-            I love creating something on my own then learning the most efficent
+            I love creating something on my own then learning the most efficient
             way. I'm excited to continue to learn more every day!
           </p>
         </Grid>
